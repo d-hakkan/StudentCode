@@ -1,0 +1,17 @@
+/* Belajar CSS */
+h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    color: rgb(22, 30, 84);
+    text-align: center;
+}
+  
+p{
+    text-transform: capitalize;
+    text-indent: 100px;
+    word-spacing: 1px;
+}
+  
+a{
+    text-decoration: none;
+}
